@@ -1,23 +1,23 @@
 # Ireland Explorer: An Interactive Shiny App
 
-This Shiny app provides an interactive exploration of various datasets related to Ireland, including demographics, GDP, and more.
+Overview: This Shiny app offers a dynamic exploration of Ireland through various datasets, encompassing demographics, GDP, migration, and life expectancy.
 
-Features: 
-Interactive map showcasing locations in Ireland
-Data plots for demographics, GDP, migration, etc.
-Comparative analysis with nearby islands
-SWOT analysis of Ireland's economic and cultural landscape
+Key Features:
 
-How to Use: Provide instructions on how to navigate and use the app. This section should guide a new user through the app's functionalities.
+Interactive Map: Explore various locations across Ireland.
 
-Data Sources: Data sourced from the United Nations database, Ireland's National Statistics Office, and other reputable sources.
+Data Visualization: Charts and graphs depicting demographics, GDP, and migration trends.
 
-Libraries Used: List the R libraries used, as shown in your script.
+Comparative Analysis: Examine Ireland in relation to the Isle of Man and the Channel Islands.
 
-Installation and Running the App: Provide step-by-step instructions on how to install and run the app locally. Include any necessary commands.
+SWOT Analysis: Delve into the economic and cultural landscape of Ireland through a detailed SWOT analysis.
+Usage:
+To use the app, download the 'ireland' folder containing R scripts, datasets, and images from the dashboard, and run it within an R environment.
 
-Screenshots: Add screenshots of the app to give users a preview.
+Screenshot: Preview the app here (include a screenshot link).
 
-License: State the license under which your project is released.
+Data Sources: The app utilizes data from the United Nations database and Ireland's National Statistics Office, among other reliable sources.
 
-Contact Information: Provide your contact information or a way for users to reach out with questions or feedback.
+License: This project is licensed under the MIT License.
+
+Contact: For inquiries or feedback, please email jiafang@bu.edu.
